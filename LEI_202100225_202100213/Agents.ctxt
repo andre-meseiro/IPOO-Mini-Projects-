@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Agents
+comment0.text=\r\n\ Armazena\ todos\ os\ agentes\ pertencentes\ \u00E0\ imobili\u00E1ria.\r\n\ N\u00E3o\ tem\ limite\ de\ agentes,\ e\ se\ n\u00E3o\ existir\ nenhum\ agente\ com\ disponibilidade\r\n\ para\ aceitar\ uma\ nova\ casa\ para\ vender,\ a\ ag\u00EAncia\ dever\u00E1\ contratar\ um\ novo.\r\n\r\n\ @author\ Grupo\ 3\ (Andr\u00E9\ Meseiro\ 202100225\ 202100225@estudantes.ips.pt\ e\ Rodrigo\ Elias\ 202100213\ 202100213@estudantes.ips.pt)\r\n\ @version\ 12/1/2022\r\n
+comment1.params=
+comment1.target=Agents()
+comment1.text=\r\n\ Constr\u00F3i\ uma\ nova\ lista\ de\ agentes.\ Todos\ os\ agentes\ t\u00EAm\ o\ valor\ null\r\n\ at\u00E9\ estarem\ inicializados\ com\ o\ m\u00E9todo\ addAgent.\r\n
+comment2.params=agent
+comment2.target=void\ addAgent(Agent)
+comment2.text=\r\n\ Adiciona\ um\ novo\ agente\ na\ listagem.\r\n\ \r\n\ @param\ agent\ o\ agent\ a\ adicionar.\r\n
+comment3.params=number
+comment3.target=Agent\ getAgent(int)
+comment3.text=\r\n\ Retorna\ um\ agente\ da\ listagem,\ com\ base\ no\ seu\ n\u00FAmero.\r\n\ \r\n\ @return\ o\ agente\ procurado.\r\n
+comment4.params=agent
+comment4.target=void\ removeAgent(Agent)
+comment4.text=\r\n\ Remove\ um\ agente\ da\ listagem.\r\n\ \r\n\ @param\ agent\ o\ agente\ a\ remover.\r\n
+comment5.params=name
+comment5.target=void\ hireNewAgent(java.lang.String)
+comment5.text=\r\n\ Cria\ um\ novo\ agente,\ caso\ nenhum\ dos\ agentes\ existentes\ se\ encontre\ dispon\u00EDvel.\r\n\ \r\n\ @param\ name\ o\ nome\ do\ novo\ agente.\r\n
+comment6.params=
+comment6.target=void\ displayAgentsByComissions()
+comment6.text=\r\n\ \ Escreve\ no\ ecr\u00E3\ a\ informa\u00E7\u00E3o\ dos\ agentes\ da\ listagem\ por\ ordem\ crescente\ de\ comiss\u00F5es.\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

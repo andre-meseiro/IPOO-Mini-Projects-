@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Sell
+comment0.text=\r\n\ Representa\ a\ venda\ de\ um\ im\u00F3vel\r\n\r\n\ @author\ Grupo\ 3\ (Andr\u00E9\ Meseiro\ 202100225\ 202100225@estudantes.ips.pt\ e\ Rodrigo\ Elias\ 202100213\ 202100213@estudantes.ips.pt)\r\n\ @version\ 12/1/2022)\r\n
+comment1.params=agent\ listing
+comment1.target=Sell(Agent,\ Listing)
+comment1.text=\r\n\ Constr\u00F3i\ uma\ venda,\ associada\ a\ um\ vendedor\ e\ um\ im\u00F3vel.\r\n\ \r\n\ @param\ agent\ o\ agente\ que\ efetuou\ a\ venda.\r\n\ @param\ listing\ o\ im\u00F3vel\ vendido.\r\n
+comment2.params=
+comment2.target=void\ makeSell()
+comment2.text=\r\n\ Efetua\ a\ venda\ de\ um\ im\u00F3vel.\r\n
+comment3.params=
+comment3.target=double\ getSells()
+comment4.params=
+comment4.target=int\ getNumberOfSells()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=void\ display()
+comment6.text=\r\n\ Escreve\ no\ ecr\u00E3\ a\ informa\u00E7\u00E3o\ sobre\ a\ venda.\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

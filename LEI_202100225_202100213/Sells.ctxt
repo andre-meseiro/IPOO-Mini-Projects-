@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Sells
+comment0.text=\r\n\ Armazena\ as\ vendas\ realizadas\ pela\ imobili\u00E1ria\ numa\ listagem.\r\n\r\n\ @author\ Grupo\ 3\ (Andr\u00E9\ Meseiro\ 202100225\ 202100225@estudantes.ips.pt\ e\ Rodrigo\ Elias\ 202100213\ 202100213@estudantes.ips.pt)\r\n\ @version\ 12/1/2022\r\n
+comment1.params=
+comment1.target=Sells()
+comment1.text=\r\n\ Constr\u00F3i\ uma\ nova\ lista\ de\ vendas.\ Todas\ as\ vendas\ t\u00EAm\ o\ valor\ null\r\n\ at\u00E9\ estarem\ inicializadas\ com\ o\ m\u00E9todo\ addSell.\r\n
+comment2.params=sell
+comment2.target=void\ addSell(Sell)
+comment2.text=\r\n\ Adiciona\ uma\ nova\ venda\ na\ listagem.\r\n\ \r\n\ @param\ sell\ a\ venda\ a\ adicionar.\r\n
+comment3.params=sell
+comment3.target=void\ removeSell(Sell)
+comment3.text=\r\n\ Remove\ uma\ venda\ da\ listagem.\r\n\ \r\n\ @param\ sell\ a\ venda\ a\ remover.\r\n
+comment4.params=
+comment4.target=void\ displaySellsByAgent()
+comment4.text=\r\n\ Escreve\ no\ ecr\u00E3\ as\ vendas\ por\ vendedor.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

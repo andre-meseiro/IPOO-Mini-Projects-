@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AppStart
+comment0.text=\r\n\ Um\ programa\ de\ gest\u00E3o\ de\ im\u00F3veis\ de\ luxo\ a\ venda,\ com\ alguns\ testes\r\n\ \u00E0s\ funcionalidades\ principais.\r\n\r\n\ @author\ Grupo\ 3\ (Andr\u00E9\ Meseiro\ 202100225\ 202100225@estudantes.ips.pt\ e\ Rodrigo\ Elias\ 202100213\ 202100213@estudantes.ips.pt)\r\n\ @version\ 17/1/2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

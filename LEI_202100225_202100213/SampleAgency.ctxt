@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SampleAgency
+comment0.text=\r\n\ Um\ exemplo\ de\ imobili\u00E1ria\ com\ dois\ agentes\ e\ tr\u00EAs\ im\u00F3veis.\r\n\r\n\ @author\ Grupo\ 3\ (Andr\u00E9\ Meseiro\ 202100225\ 202100225@estudantes.ips.pt\ e\ Rodrigo\ Elias\ 202100213\ 202100213@estudantes.ips.pt)\r\n\ @version\ 17/1/2022\r\n
+comment1.params=
+comment1.target=SampleAgency()
+comment1.text=\r\n\ Construtor\ da\ classeSampleAgency.\ Inicializa\ um\ novo\ exemplo.\r\n
+comment2.params=
+comment2.target=RealEstateAgency\ getAgency()
+comment2.text=\r\n\ Retorna\ uma\ imobili\u00E1ria\ com\ alguns\ dados\ (2\ agentes\ e\ 3\ im\u00F3veis)\r\n\r\n\ @return\ RealEstateAgency\ o\ exemplo\ de\ imobili\u00E1ria\ com\ 2\ agentes\ e\ 3\ im\u00F3veis\r\n
+numComments=3

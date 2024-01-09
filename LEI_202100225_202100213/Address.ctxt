@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Address
+comment0.text=\r\n\ O\ endere\u00E7o\ de\ um\ im\u00F3vel,\ caracterizado\ pela\ rua,\ \r\n\ o\ c\u00F3digo\ postal\ e\ a\ cidade\ onde\ est\u00E1\ localizado\ o\ im\u00F3vel.\r\n\r\n\ @author\ Grupo\ 3\ (Andr\u00E9\ Meseiro\ 202100225\ 202100225@estudantes.ips.pt\ e\ Rodrigo\ Elias\ 202100213\ 202100213@estudantes.ips.pt)\r\n\ @version\ 17/1/2022\r\n
+comment1.params=street\ zip\ city
+comment1.target=Address(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constr\u00F3i\ um\ novo\ endere\u00E7o\ usando\ a\ rua,\ o\ c\u00F3digo\ postal\ e\ a\ cidade.\r\n\ Quando\ a\ rua,\ o\ c\u00F3digo\ postal\ ou\ a\ cidade\ fornecidos\ n\u00E3o\ s\u00E3o\ v\u00E1lidos,\r\n\ o\ construtor\ usa\ Strings\ vazias.\r\n\ \r\n\ @param\ street\ a\ informa\u00E7\u00E3o\ da\ rua\r\n\ @param\ zip\ o\ c\u00F3digo\ postal\r\n\ @param\ city\ o\ nome\ da\ cida\r\n
+comment2.params=
+comment2.target=Address()
+comment2.text=\r\n\ Constr\u00F3i\ um\ novo\ endere\u00E7o.\ Os\ dados\ da\ rua,\ do\ c\u00F3digo\ postal\ e\ da\ cidade\r\n\ s\u00E3o\ inicializados\ com\ Strings\ vazias.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCity()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=city
+comment5.target=boolean\ isLocatedAt(java.lang.String)
+comment5.text=\r\n\ Verifica\ se\ um\ im\u00F3vel\ est\u00E1\ localizado\ numa\ determinada\ cidade.\r\n\ @param\ city\ uma\ String\ que\ indica\ o\ nome\ da\ cidade\ procurada.\r\n\ @return\ boolean\ o\ valor\ \u00E9\ verdadeiro\ se\ est\u00E1\ localizado\ na\ cidade,\ false\ se\ n\u00E3o\ estiver.\r\n
+numComments=6
