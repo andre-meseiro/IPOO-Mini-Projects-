@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Data
+comment0.text=\r\n\ Classe\ que\ fornece\ um\ conjunto\ de\ dados\ da\ aplica\u00E7\u00E3o.\r\n\r\n\ @author\ Grupo3\ (Andr\u00E9\ Meseiro\ -\ 202100225\ 202100225@estudantes.ips.pt\ e\ Rodrigo\ Elias\ -\ 202100213\ 202100213@estudantes.ipt.pt)\r\n\ @version\ 23/12/2021\r\n
+comment1.params=
+comment1.target=void\ initializeStations()
+comment1.text=\r\n\ Inicializa\ todas\ as\ esta\u00E7\u00F5es\r\n
+comment2.params=
+comment2.target=SubwayLine[]\ getLines()
+comment2.text=\r\n\ Permite\ obter\ as\ linhas\ de\ metro\ com\ respetivas\ esta\u00E7\u00F5es.\r\n\r\n\ @return\ um\ array\ de\ linhas\ de\ metro\r\n
+comment3.params=
+comment3.target=double[]\ getPrices()
+comment3.text=\r\n\ Permite\ obter\ os\ pre\u00E7os\ por\ zona.\r\n\r\n\ @return\ um\ array\ com\ os\ pre\u00E7os\ por\ zona\r\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Route
+comment0.text=\r\n\ Classe\ que\ representa\ um\ percurso\ efetuado\ por\ um\ passageiro,\ desde\ a\ esta\u00E7\u00E3o\ de\ origem\ \u00E0\ esta\u00E7\u00E3o\ de\ destino.\r\n\r\n\ @author\ Grupo3\ (Andr\u00E9\ Meseiro\ -\ 202100225\ 202100225@estudantes.ips.pt\ e\ Rodrigo\ Elias\ -\ 202100213\ 202100213@estudantes.ipt.pt)\r\n\ @version\ 19/12/2021\r\n
+comment1.params=stationsTraveled
+comment1.target=Route(Station[])
+comment1.text=\r\n\ Construtor\ da\ classe\ Route.\ Recebe\ as\ esta\u00E7\u00F5es\ percorridas\ no\ percurso.\r\n\ \r\n\ @param\ stationsTraveled\ -\ conjunto\ de\ esta\u00E7\u00F5es\ percorridas\ no\ percurso\r\n
+comment2.params=
+comment2.target=int\ getNumberOfZonesTraveled()
+comment3.params=
+comment3.target=Station\ getOriginStation()
+comment4.params=
+comment4.target=Station\ getDestinationStation()
+comment5.params=
+comment5.target=void\ showRouteInfo()
+comment5.text=\r\n\ Mostra\ informa\u00E7\u00E3o\ sobre\ o\ percurso\ efetuado.\r\n
+numComments=6

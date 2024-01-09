@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=InputReader
+comment0.text=\r\n\ Classe\ respons\u00E1vel\ pelo\ tratamento\ e\ leitura\ de\ valores\ inseridos\ pelo\ utilizador\ em\ terminal.\r\n\r\n\ @author\ IPOO\r\n\ @version\ 2021/2022\r\n
+comment1.params=
+comment1.target=InputReader()
+comment1.text=\r\n\ Construtor\ da\ classe\ InputReader.\r\n
+comment2.params=question
+comment2.target=void\ showFormattedQuestion(java.lang.String)
+comment2.text=\r\n\ Formata\ a\ quest\u00E3o\ colocada\ ao\ utilizador.\r\n\r\n\ @param\ question\r\n
+comment3.params=question
+comment3.target=double\ getRealNumber(java.lang.String)
+comment3.text=\r\n\ Permite\ obter\ um\ valor\ real\ de\ dupla\ precis\u00E3o\r\n\r\n\ @param\ question\r\n\ @return\ valor\ real\ (double)\ obtido\r\n
+comment4.params=question
+comment4.target=int\ getIntegerNumber(java.lang.String)
+comment4.text=\r\n\ Permite\ obter\ um\ valor\ inteiro\r\n\r\n\ @param\ question\r\n\ @return\ valor\ inteiro\ introduzido\r\n
+comment5.params=question
+comment5.target=java.lang.String\ getText(java.lang.String)
+comment5.text=\r\n\ Permite\ obter\ um\ valor\ textual.\r\n\r\n\ @param\ question\r\n\ @return\ string\ com\ respetivo\ texto\r\n
+numComments=6

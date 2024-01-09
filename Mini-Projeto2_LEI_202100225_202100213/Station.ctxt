@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Station
+comment0.text=\r\n\ Classe\ que\ representa\ uma\ esta\u00E7\u00E3o.\r\n\r\n\ @author\ Grupo3\ (Andr\u00E9\ Meseiro\ -\ 202100225\ 202100225@estudantes.ips.pt\ e\ Rodrigo\ Elias\ -\ 202100213\ 202100213@estudantes.ipt.pt)\r\n\ @version\ 18/12/2021\r\n
+comment1.params=name\ zone\ correspondence
+comment1.target=Station(java.lang.String,\ Zone,\ boolean)
+comment1.text=\r\n\ Construtor\ da\ classe\ Station.\ Recebe\ o\ nome,\ a\ zona\ metropolitana\ a\ que\ pertence\ e\ se\ a\ esta\u00E7\u00E3o\ tem\ correspond\u00EAncia\ com\ mais\ de\ uma\ linha\ de\ metro.\r\n\r\n\ @param\ name\ -\ nome\ da\ esta\u00E7\u00E3o\r\n\ @param\ zone\ -\ zona\ metropolitana\ a\ que\ pertence\ a\ esta\u00E7\u00E3o\r\n\ @param\ correspondence\ -\ se\ a\ esta\u00E7\u00E3o\ tem\ ou\ n\u00E3o\ correspond\u00EAncia\ com\ outras\ linhas\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=Zone\ getZone()
+comment4.params=
+comment4.target=boolean\ doCorrespondence()
+comment5.params=newName
+comment5.target=void\ setName(java.lang.String)
+comment6.params=newZone
+comment6.target=void\ setZone(Zone)
+comment7.params=newCorrespondence
+comment7.target=void\ setCorrespondence(boolean)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=void\ showStationInfo()
+comment9.text=\r\n\ Mostra\ informa\u00E7\u00E3o\ sobre\ a\ esta\u00E7\u00E3o.\r\n
+numComments=10
