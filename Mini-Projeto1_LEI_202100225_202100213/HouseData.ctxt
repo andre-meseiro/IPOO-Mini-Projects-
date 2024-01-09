@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HouseData
+comment0.text=\r\n\ A\ classe\ HouseData\ serve\ para\ recolher\ e\ mostrar\ os\ detalhes\ de\ um\ im\u00F3vel.\r\n\ \r\n\ @author\ \ Andr\u00E9\ Meseiro\ 202100225\ (202100225@estudantes.ips.pt)\ e\ Rodrigo\ Elias\ 202100213\ (202100213@estudantes.ips.pt)\r\n\ @version\ 13-11-2021\r\n
+comment1.params=address\ area\ yard
+comment1.target=HouseData(Address,\ double,\ boolean)
+comment1.text=\r\n\ Recolhe\ as\ informa\u00E7\u00F5es\ sobre\ a\ \u00E1rea\ da\ casa\ e\ sobre\ o\ quintal.\r\n\ @param\ area\ A\ \u00E1rea\ por\ m2\ da\ casa.\r\n\ @param\ yard\ Se\ a\ casa\ tem\ quintal\ ou\ n\u00E3o.\r\n
+comment2.params=
+comment2.target=void\ displayAddress()
+comment2.text=\r\n\ Mostra\ no\ ecr\u00E3\ as\ informa\u00E7\u00F5es\ dispon\u00EDveis\ sobre\ o\ im\u00F3vel.\r\n
+comment3.params=
+comment3.target=boolean\ getYard()
+comment4.params=
+comment4.target=Address\ getAddress()
+comment5.params=
+comment5.target=double\ getArea()
+numComments=6

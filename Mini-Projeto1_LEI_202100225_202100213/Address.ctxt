@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Address
+comment0.text=\r\n\ A\ classe\ Address\ serve\ para\ recolher\ e\ armazenar\ informa\u00E7\u00F5es\ sobre\ o\ im\u00F3vel.\r\n\ \r\n\ @author\ \ Andr\u00E9\ Meseiro\ 202100225\ (202100225@estudantes.ips.pt)\ e\ Rodrigo\ Elias\ 202100213\ (202100213@estudantes.ips.pt)\r\n\ @version\ 13-11-2021\r\n
+comment1.params=city\ zipCode\ address
+comment1.target=Address(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Recolhe\ as\ informa\u00E7\u00F5es\ sobre\ a\ localiza\u00E7\u00E3o\ da\ casa.\r\n\ @param\ city\ \ \ \ A\ cidade\ onde\ o\ im\u00F3vel\ est\u00E1\ localizado.\r\n\ @param\ zipCode\ O\ codigo\ postal\ do\ im\u00F3vel.\r\n\ @param\ address\ A\ morada(nome\ da\ rua\ etc.)\ do\ im\u00F3vel.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getZipCode()
+comment3.params=
+comment3.target=java.lang.String\ getCity()
+comment4.params=
+comment4.target=java.lang.String\ getAddress()
+comment5.params=
+comment5.target=void\ display()
+comment5.text=\r\n\ Mostra\ no\ ecr\u00E3\ as\ informa\u00E7\u00F5es\ dispon\u00EDveis\ sobre\ a\ localiza\u00E7\u00E3o\ do\ im\u00F3vel.\r\n
+numComments=6

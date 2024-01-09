@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Listings
+comment0.text=\r\n\ A\ classe\ Listings\ serve\ para\ aceder\ a\ uma\ certa\ listing\ com\ um\ im\u00F3vel\ de\ forma\ r\u00E1pida,\ sem\ ter\ de\ passar\ pelo\ vendedor.\r\n\ \r\n\ @author\ \ Andr\u00E9\ Meseiro\ 202100225\ (202100225@estudantes.ips.pt)\ e\ Rodrigo\ Elias\ 202100213\ (202100213@estudantes.ips.pt)\ \r\n\ @version\ 27-11-2021\r\n
+comment1.params=newList
+comment1.target=Listings(Listing)
+comment1.text=\r\n\ Recolhe\ informa\u00E7\u00F5es\ sobre\ os\ im\u00F3veis.\r\n
+comment2.params=
+comment2.target=void\ displayListings()
+comment2.text=\r\n\ Mostra\ no\ ecr\u00E3\ as\ informa\u00E7\u00F5es\ dos\ im\u00F3veis.\r\n
+numComments=3

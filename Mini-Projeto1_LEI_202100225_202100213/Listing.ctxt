@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Listing
+comment0.text=\r\n\ A\ classe\ Listing\ serve\ para\ representar\ o\ im\u00F3vel.\r\n\ \r\n\ @author\ Andr\u00E9\ Meseiro\ 202100225\ (202100225@estudantes.ips.pt)\ e\ Rodrigo\ Elias\ 202100213\ (202100213@estudantes.ips.pt)\r\n\ @version\ 13-11-2021\r\n
+comment1.params=newData\ newPrice
+comment1.target=Listing(HouseData,\ double)
+comment1.text=\r\n\ Recolhe\ informa\u00E7\u00F5es\ sobre\ os\ detalhes\ do\ im\u00F3vel\ e\ do\ pre\u00E7o\ pelo\ qual\ ser\u00E1\ vendido.\r\n\ @param\ newPrice\ O\ pre\u00E7o\ do\ im\u00F3vel.\r\n\ @param\ newData\ \ Escolher\ o\ im\u00F3vel\ em\ quest\u00E3o.\r\n
+comment2.params=price\ data\ pricePerM2
+comment2.target=void\ addListingMethod1(int,\ HouseData,\ double)
+comment2.text=\r\n\ Primeiro\ m\u00E9todo\ para\ adicionar\ um\ im\u00F3vel\ novo\ para\ venda,\ que\ recolhe\ as\ informa\u00E7\u00F5es\ do\ pre\u00E7o\ do\ im\u00F3vel\ e\ a\ casa\ em\ quest\u00E3o.\r\n\ @param\ price\ \ \ \ \ \ Pre\u00E7o\ a\ que\ o\ im\u00F3vel\ ser\u00E1\ vendido.\r\n\ @param\ data\ \ \ \ \ \ \ Escolher\ o\ im\u00F3vel\ em\ quest\u00E3o.\r\n\ @param\ pricePerM2\ Pre\u00E7o\ por\ metro\ quadrado\ do\ im\u00F3vel.\r\n
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=int\ getPropNumber()
+comment5.params=
+comment5.target=boolean\ getYard()
+comment6.params=
+comment6.target=HouseData\ getData()
+comment7.params=price\ data\ yard\ pricePerM2
+comment7.target=void\ addListingMethod2(int,\ HouseData,\ boolean,\ double)
+comment7.text=\r\n\ Segundo\ m\u00E9todo\ para\ adicionar\ um\ im\u00F3vel\ novo\ para\ venda,\ que\ recolhe\ as\ informa\u00E7\u00F5es\ do\ pre\u00E7o\ do\ im\u00F3vel\ e\ a\ casa\ em\ quest\u00E3o.\r\n\ @param\ price\ \ \ \ \ \ Pre\u00E7o\ a\ que\ o\ im\u00F3vel\ ser\u00E1\ vendido.\r\n\ @param\ data\ \ \ \ \ \ \ Escolher\ o\ im\u00F3vel\ em\ quest\u00E3o.\r\n\ @param\ yard\ \ \ \ \ \ \ Escolher\ se\ o\ im\u00F3vel\ tem\ quintal\ ou\ n\u00E3o.\r\n\ @param\ pricePerM2\ Pre\u00E7o\ por\ metro\ quadrado\ do\ im\u00F3vel.\r\n
+comment8.params=city
+comment8.target=boolean\ isLocatedAt(java.lang.String)
+comment8.text=\r\n\ Serve\ para\ confirmar\ a\ cidade\ onde\ o\ im\u00F3vel\ est\u00E1\ localizado.\r\n\ @param\ city\ A\ cidade\ onde\ o\ im\u00F3vel\ est\u00E1\ localizado.\r\n
+comment9.params=
+comment9.target=void\ display()
+comment9.text=\r\n\ Mostra\ no\ ecr\u00E3\ as\ informa\u00E7\u00F5es\ sobre\ o\ im\u00F3vel\ \u00E0\ venda.\r\n
+numComments=10
